@@ -49,11 +49,12 @@
   <a href="https://www.linkedin.com/in/m-atef1999/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" 
          width="100" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:m.atef.business@gmail.com">
+    
+<a href="mailto&#58;m.atef.business&#64;gmail.com">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" 
        width="100" alt="Email"/>
-  </a>
+</a>
+
 
 </p>
 
