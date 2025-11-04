@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" 
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIyNzg5NzYsIm5iZiI6MTc2MjI3ODY3NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA0VDE3NTExNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhNDk1NDgxYmViYjE1YWFjNzQyMGVlMmIzZGE2ODYyZTM0YzEyOGIwYzQ1ZThhZjI2MzZhNDAyODRmMzlhZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fTWk7kqd_U5Rt8xVeKP0CknfSgc4ygSf05YR5-9dqnQ" 
        alt="Profile Banner" 
        width="100%" />
 </p>
@@ -43,7 +43,7 @@
 ###
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" 
        width="40" height="40" alt="Shaking hands"/> 
   Connect with me
 </h2>
@@ -58,7 +58,11 @@
   <a href="https://www.linkedin.com/in/m-atef1999/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" alt="LinkedIn"/>
   </a>
+  <a href="mailto:m.atef.business@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" height="50" alt="Email"/>
+  </a>
 </p>
+
 
 
 ###
