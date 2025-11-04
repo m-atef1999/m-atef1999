@@ -28,7 +28,7 @@
   <img width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" height="60" alt="csharp logo"  />
   <img width="40" />
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60" alt="sqlserver logo"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png?20231031073357" height="60" alt="sqlserver logo"  />
   <img width="40" />
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" height="60" alt="angular logo"  />
   <img width="40" />
