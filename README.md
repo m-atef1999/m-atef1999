@@ -50,7 +50,7 @@
            width="40" height="40" alt="Shaking hands"/> 
       Connect with me
     </h2>
-
+`
     <p align="center">
       <a href="https://wa.me/201555690210" target="_blank">
         <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" alt="WhatsApp"/>
