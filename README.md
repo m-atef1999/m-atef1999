@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Mahmoud and I'm a FullStack Developer </h2>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" 
+       alt="Profile Banner" 
+       width="100%" />
+</p>
+
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" height="40" alt="waving hand"/>!  
+  I'm Mahmoud and I'm a <span style="color:#007acc;">Full-Stack Developer</span>
+</h1>
+
 
 ###
 
@@ -12,6 +22,12 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN1bGw2ajE4endmMmEyeGk2c3FpNW90NnA1cDFqZGNtZWZqcHZscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
+
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
+       width="40" height="40" alt="Code symbol"/>  
+  Tech Stack & Skills
+</h2>
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" alt="javascript logo"  />
