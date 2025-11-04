@@ -16,35 +16,30 @@
 ###
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-       width="40" height="40" alt="Code symbol"/>  
-  Tech Stack & Skills
+  Tech Stack 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtyb2xvejhzemprZjlqY2VvdzdlMWM0bHQ3b25yenpseW5wbnY0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       width="60" alt="Tech GIF"/>
 </h2>
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" alt="javascript logo"  />
-  <img width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="60" alt="nodejs logo"  />
-  <img width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60" alt="react logo"  />
-  <img width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="60" alt="python logo"  />
-  <img width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" height="60" alt="csharp logo"  />
-  <img width="40" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png?20231031073357" height="60" alt="sqlserver logo"  />
-  <img width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" height="60" alt="angular logo"  />
-  <img width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="60" alt="bootstrap logo"  />
-  <img width="40" />
-</div>
+<p align="center">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="80" height="80" alt="C#"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/512px-Sql_data_base_with_logo.svg.png?20231031073357" width="80" height="80" alt="SQL Server"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" height="80" alt="Node.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80" alt="Python"/>
+
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="80" height="80" alt="Angular"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80" alt="React"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80" alt="JavaScript"/>
+</p>
+
 
 ###
 
 <h2 align="center">
   Connect with me 
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" 
        width="60" alt="Handshake GIF"/>
 </h2>
 
