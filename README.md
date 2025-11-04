@@ -11,15 +11,9 @@
 
 
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN1bGw2ajE4endmMmEyeGk2c3FpNW90NnA1cDFqZGNtZWZqcHZscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
 ###
-
-<h2 align="center">
-  Tech Stack 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtyb2xvejhzemprZjlqY2VvdzdlMWM0bHQ3b25yenpseW5wbnY0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       width="60" alt="Tech GIF"/>
-</h2>
 
 <p align="center">
   
