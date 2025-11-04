@@ -44,7 +44,7 @@
 
 <h2 align="center">
   Connect with me 
-  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" 
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
        width="60" alt="Handshake GIF"/>
 </h2>
 
@@ -66,6 +66,12 @@
          width="100" alt="Email"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" 
+       width="150" alt="Animated GIF"/>
+</p>
+
 
 ###
 
