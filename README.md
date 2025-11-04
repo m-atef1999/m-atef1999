@@ -42,39 +42,37 @@
 
 ###
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="70%">
-        <h2>
-          <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
-               width="40" height="40" alt="Shaking hands"/> 
-          Connect with me
-        </h2>
-```
-        <p align="center">
-          <a href="https://wa.me/201555690210" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4f47-8758-05c9468d5596.gif" width="50" height="50" alt="WhatsApp"/>
-          </a>
-          <a href="https://discord.com/users/167965592387715072" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" height="50" alt="Discord"/>
-          </a>
-          <a href="https://www.linkedin.com/in/m-atef1999/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" alt="LinkedIn"/>
-          </a>
-          <a href="mailto:m.atef.business@gmail.com" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" height="50" alt="Email"/>
-          </a>
-        </p>
-      </td>
-      <td align="right" width="30%">
-        <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" 
-             alt="Handshake animation" width="150"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
+  <div style="flex: 1; min-width: 250px;">
+    <h2>
+      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" 
+           width="40" height="40" alt="Shaking hands"/> 
+      Connect with me
+    </h2>
+
+    <p align="center">
+      <a href="https://wa.me/201555690210" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" alt="WhatsApp"/>
+      </a>
+      <a href="https://discord.com/users/167965592387715072" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" alt="Discord"/>
+      </a>
+      <a href="https://www.linkedin.com/in/m-atef1999/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn"/>
+      </a>
+      <a href="mailto:m.atef.business@gmail.com" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" alt="Email"/>
+      </a>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" 
+         alt="Handshake animation" width="150"/>
+  </div>
+
+</div>
 
 
 ###
